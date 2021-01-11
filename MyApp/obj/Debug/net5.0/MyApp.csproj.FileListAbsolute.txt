@@ -1,0 +1,15 @@
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/MyApp.deps.json
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.json
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.dev.json
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/MyApp.dll
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/ref/MyApp.dll
+/Users/lizetterodriguez/Desktop/MyApp/bin/Debug/net5.0/MyApp.pdb
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.csprojAssemblyReference.cache
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfoInputs.cache
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfo.cs
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.dll
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/ref/MyApp.dll
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.pdb
+/Users/lizetterodriguez/Desktop/MyApp/obj/Debug/net5.0/MyApp.genruntimeconfig.cache
